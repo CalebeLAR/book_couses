@@ -7,6 +7,8 @@ class chapter02:
         "2.7 - Removendo caracteres em branco de nomes",
         "2.8 - Número oito",
         "2.9 - Número favorito",
+        "2.10 - Acrescentando comentários",
+        "2.11 - Zen de Python",
     ]
 
     topics = [
@@ -35,4 +37,3 @@ class chapter02:
         "Zen de Python",
         "Resumo",
     ]
-    pass
