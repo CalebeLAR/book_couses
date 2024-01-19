@@ -75,3 +75,37 @@ class chapter02:
         "Resumo",
     ]
 ```
+```python
+class chapter03:
+    exercises = [
+        "3.1 - Nomes",
+        "3.2 - Saudações",
+        "3.3 - Sua própria lista",
+        "3.4 - Lista de convidados",
+        "3.5 - Alterando a lista de convidados",
+        "3.6 - Mais convidados",
+        "3.7 - Reduzindo a lista de convidados",
+        "3.8 - Conhecendo o mundo",
+        "3.9 - Convidados para o jantar",
+        "3.10 - Todas as funções",
+        "3.11 - Erro proposital",
+    ]
+    topics = [
+        "3 ■ Introdução às listas",
+        "O que é uma lista?",
+        "Acessando elementos de uma lista",
+        "A posição dos índices começa em 0, e não em 1",
+        "Usando valores individuais de uma lista",
+        "Alterando, acrescentando e removendo elementos",
+        "Modificando elementos de uma lista",
+        "Acrescentando elementos em uma lista",
+        "Removendo elementos de uma lista",
+        "Organizando uma lista",
+        "Ordenando uma lista de forma permanente com o método sort()",
+        "Ordenando uma lista temporariamente com a função sorted()",
+        "Exibindo uma lista em ordem inversa",
+        "Descobrindo o tamanho de uma lista",
+        "Evitando erros de índice quando trabalhar com listas",
+        "Resumo",
+    ]
+```
