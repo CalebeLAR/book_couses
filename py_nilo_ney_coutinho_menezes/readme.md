@@ -1,8 +1,8 @@
 # introdução à programação com python algoritmos
 _"Nilo Ney Coutinho Menezes"_  
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
-<img alt="introdução à programação com python algoritmos" src="./image.jpg" width="150"> <img alt="introdução à programação com python algoritmos" src="./image.jpg" width="150"> <img alt="introdução à programação com python algoritmos" src="./image.jpg" width="150"> <img alt="introdução à programação com python algoritmos" src="./image.jpg" width="150"> <img alt="introdução à programação com python algoritmos" src="./image.jpg" width="150">  
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+<img alt="introdução à programação com python algoritmos" src="./image.jpg" width="122"> <img alt="introdução à programação com python algoritmos" src="./image.jpg" width="122"> <img alt="introdução à programação com python algoritmos" src="./image.jpg" width="122"> <img alt="introdução à programação com python algoritmos" src="./image.jpg" width="122"> <img alt="introdução à programação com python algoritmos" src="./image.jpg" width="122">  <img alt="introdução à programação com python algoritmos" src="./image.jpg" width="122"> <img alt="introdução à programação com python algoritmos" src="./image.jpg" width="122">  <img alt="introdução à programação com python algoritmos" src="./image.jpg" width="122">
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
 
 **Sumário**  
 **Agradecimentos**  
