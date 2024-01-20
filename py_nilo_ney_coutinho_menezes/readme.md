@@ -1,15 +1,15 @@
 # introdução à programação com python algoritmos
 _"Nilo Ney Coutinho Menezes"_  
-++++++++++++++++++++++++++  
+++++++++++++++++++++++  
 <img alt="introdução à programação com python algoritmos" src="./image.jpg" width="200">  
-++++++++++++++++++++++++++  
+++++++++++++++++++++++  
 
 **Sumário**  
 **Agradecimentos**  
 **Prefácio da segunda edição**  
 **Prefácio da primeira edição**  
 **Introdução**  
- 
+
 ```python
 class chapter01:
     exercises = []
