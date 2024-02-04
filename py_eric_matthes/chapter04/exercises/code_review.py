@@ -7,4 +7,3 @@
 # • Use menos de 80 caracteres em cada linha e configure seu editor para que
 # mostre uma linha vertical na posição do caractere de número 80.
 # • Não use linhas em branco em demasia em seus arquivos de programa.
-
